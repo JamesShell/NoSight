@@ -1,14 +1,14 @@
-# The Walking Deaf
+# No Sight
 
 A top-down pixel art shooter built in **Unity** for **Global Game Jam 2025**.
 
-In *The Walking Deaf*, sight is limited, sound is dangerous, and every shot matters. You explore dungeon-like levels using an **echo-based fog of war** system to reveal the map around you. The catch? Making noise helps you understand the world — but it also helps the zombies find **you**.
+In *No Sight*, sight is limited, sound is dangerous, and every shot matters. You explore dungeon-like levels using an **echo-based fog of war** system to reveal the map around you. The catch? Making noise helps you understand the world — but it also helps the zombies find **you**.
 
 ---
 
 ## About the Game
 
-*The Walking Deaf* is a top-down survival shooter where the player navigates through a series of dungeon-style levels filled with zombie waves. Instead of seeing the full map at once, you uncover your surroundings through an **audio-inspired reveal mechanic** — basically “listening” with echoes to expose parts of the map hidden by fog of war.
+*No Sight* is a top-down survival shooter where the player navigates through a series of dungeon-style levels filled with zombie waves. Instead of seeing the full map at once, you uncover your surroundings through an **audio-inspired reveal mechanic** — basically “listening” with echoes to expose parts of the map hidden by fog of war.
 
 Each new level throws fresh enemy waves at you and rewards progress with a stronger weapon. You begin with a **pistol**, then move on to weapons like the **rifle**, **shotgun**, and more depending on the build.
 
@@ -45,7 +45,7 @@ The main tension of the game comes from a simple tradeoff:
 
 ## Fog of War / Echo Mechanic
 
-One of the main ideas behind *The Walking Deaf* is using **echo** as a way to understand your surroundings.
+One of the main ideas behind *No Sight* is using **echo** as a way to understand your surroundings.
 
 Instead of giving the player constant full vision of the map, the game hides unexplored areas behind fog of war. You reveal the environment by sending out an echo-like pulse, creating a playstyle where awareness has to be earned.
 
@@ -93,4 +93,4 @@ A few directions the project could grow in:
 
 ## Final Note
 
-*The Walking Deaf* is a small jam game built around a simple idea: sometimes the only way to find your path is to make enough noise for the world to answer back.
+*No Sight* is a small jam game built around a simple idea: sometimes the only way to find your path is to make enough noise for the world to answer back.
