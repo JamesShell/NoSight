@@ -61,22 +61,6 @@ This mechanic ties directly into the game’s theme and makes navigation feel te
 
 ---
 
-## Project Structure
-
-Example structure if you want to document the repo a bit:
-
-```text
-Assets/
-├── Scripts/
-├── Prefabs/
-├── Scenes/
-├── Sprites/
-├── Audio/
-└── UI/
-```
-
----
-
 ## Running the Project
 
 1. Clone the repository
