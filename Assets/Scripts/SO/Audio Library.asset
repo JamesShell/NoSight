@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2f5aace60579df4282e3a5be269645a, type: 3}
+  m_Name: Audio Library
+  m_EditorClassIdentifier: Assembly-CSharp::AudioLibrary
+  entries:
+  - id: Player/Level
+    clip: {fileID: 8300000, guid: b15c099adb64888458426a31c95d23cd, type: 3}
+  - id: Pistol/Shoot
+    clip: {fileID: 8300000, guid: c932f23c9bebb2747bf5a2d2e8dcdf57, type: 3}
+  - id: Pistol/Shoot
+    clip: {fileID: 8300000, guid: b3498509a65a61f4fbdf02f1394fb245, type: 3}
+  - id: Rifle/Shoot
+    clip: {fileID: 8300000, guid: 6a0aec9be3df72d45800bee2ce58e579, type: 3}
+  - id: Rifle/Shoot
+    clip: {fileID: 8300000, guid: 9d7f515564ee5b644abc6203fce3e42c, type: 3}
+  - id: Shotgun/Shoot
+    clip: {fileID: 8300000, guid: 9de3ec0224aa90c45ba308d224903b07, type: 3}
+  - id: Shotgun/Shoot
+    clip: {fileID: 8300000, guid: 5578d7fee130ff7478cadda7f2f42352, type: 3}
+  - id: Zombie/Hit
+    clip: {fileID: 8300000, guid: 67a746c07d15a9742a6a0d4064c9f72c, type: 3}
+  - id: Zombie/Follow
+    clip: {fileID: 8300000, guid: a72b992ab74fc2b4caca27c93e19d252, type: 3}
+  - id: Music/Main
+    clip: {fileID: 8300000, guid: 3b3054624372dbf4ca7bbc43c4457b81, type: 3}
+  - id: Music/Ambient
+    clip: {fileID: 8300000, guid: 2fb61dfc9629a924a9f716f54f14bd0c, type: 3}
+  - id: Headshot
+    clip: {fileID: 8300000, guid: 463ce974bfa9a6246943f2af86682d67, type: 3}
+  - id: Impact/Wall
+    clip: {fileID: 8300000, guid: 7427fef549a3acc45b24e2f78791caaa, type: 3}
+  - id: Impact/Wall
+    clip: {fileID: 8300000, guid: ccfa10a0adeda6b4c9f017c70ae0ecf8, type: 3}
+  - id: Impact/Wall
+    clip: {fileID: 8300000, guid: d3f44d2cdc7dfbc449df13a0907d8228, type: 3}
+  - id: Footstep
+    clip: {fileID: 8300000, guid: 5352491ebbcbc914889a8f0a995dc523, type: 3}
+  - id: Footstep
+    clip: {fileID: 8300000, guid: 6b5f0dd3e2ca6b742a6a51c9dab21a93, type: 3}
+  - id: Footstep
+    clip: {fileID: 8300000, guid: 5352491ebbcbc914889a8f0a995dc523, type: 3}
