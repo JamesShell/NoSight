@@ -2,13 +2,13 @@
 
 A top-down pixel art shooter built in **Unity** for **Global Game Jam 2025**.
 
-In *No Sight*, sight is limited, sound is dangerous, and every shot matters. You explore dungeon-like levels using an **echo-based fog of war** system to reveal the map around you. The catch? Making noise helps you understand the world — but it also helps the zombies find **you**.
+In *No Sight*, sight is limited, sound is dangerous, and every shot matters. You explore dungeon-like levels using an **echo-based fog of war** system to reveal the map around you. The catch? Making noise helps you understand the world, but it also helps the zombies find **you**.
 
 ---
 
 ## About the Game
 
-*No Sight* is a top-down survival shooter where the player navigates through a series of dungeon-style levels filled with zombie waves. Instead of seeing the full map at once, you uncover your surroundings through an **audio-inspired reveal mechanic** — basically “listening” with echoes to expose parts of the map hidden by fog of war.
+*No Sight* is a top-down survival shooter where the player navigates through a series of dungeon-style levels filled with zombie waves. Instead of seeing the full map at once, you uncover your surroundings through an **audio-inspired reveal mechanic**, basically “listening” with echoes to expose parts of the map hidden by fog of war.
 
 Each new level throws fresh enemy waves at you and rewards progress with a stronger weapon. You begin with a **pistol**, then move on to weapons like the **rifle**, **shotgun**, and more depending on the build.
 
