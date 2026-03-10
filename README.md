@@ -10,13 +10,7 @@ In *No Sight*, sight is limited, sound is dangerous, and every shot matters. You
 
 *No Sight* is a top-down survival shooter where the player navigates through a series of dungeon-style levels filled with zombie waves. Instead of seeing the full map at once, you uncover your surroundings through an **audio-inspired reveal mechanic**, basically “listening” with echoes to expose parts of the map hidden by fog of war.
 
-Each new level throws fresh enemy waves at you and rewards progress with a stronger weapon. You begin with a **pistol**, then move on to weapons like the **rifle**, **shotgun**, and more depending on the build.
-
-The main tension of the game comes from a simple tradeoff:
-
-- **Shoot to survive**
-- **Make noise and attract more zombies**
-- **Use echoes to reveal the map**
+Each new level throws fresh enemy waves at you and rewards progress with a stronger weapon.
 
 ---
 
